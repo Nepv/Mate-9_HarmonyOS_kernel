@@ -1,4 +1,4 @@
-# Mate-9_HarmonyOS_kernel
+# HUAWEI Mate 9 kernel
 
 ‖未来会上传，但是现在没时间，暂时不了。
 
