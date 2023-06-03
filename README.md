@@ -1,7 +1,7 @@
 # HUAWEI Mate 9 kernel
-##### 关于<funt color=red>这个kernel</font>
+##### 关于
 * 未来会上传，但是现在没时间，暂时不了。
-* 未来可能会有KernelSU，但是现在一定没有。
+* 未来可能会有`KernelSU`，但是现在一定没有。
 # 我的计划
 ##### 看看我能否实现
 * 我会发布Release，是我编译好的内核和可以直接刷在手机上的kernel.img。
