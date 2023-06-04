@@ -1,6 +1,6 @@
 # HUAWEI Mate 9 kernel
 关于：
-* 未来会上传，但是现在没时间，暂时不了。
+* 未来会上传，但是现在没时间，暂时不上传了。
 * 如果你急着找`HUAWEI Mate 9`的内核，那么我给你推荐一个网站：
 > [HUAWEI内核官方开源地址](https://consumer.huawei.com/en/opensource/detail/)
 * 未来可能会有`KernelSU`，但是现在一定没有。
